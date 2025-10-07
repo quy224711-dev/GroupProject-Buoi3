@@ -1,1 +1,2 @@
 - Viết phần giới thiệu dự án
+- Thêm phần mô tả chi tiết

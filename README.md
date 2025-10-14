@@ -1,3 +1,1 @@
-# Dự án Nhóm
-
-Phiên bản chính xác ✅
+# Nội dung đúng của README.md sau rollback
